@@ -1,3 +1,6 @@
+This repository is no longer active and has been moved to: http://github.com/nlpreviz/emr-vis-web
+_____
+
 # NLPReViz: emr-vis-web
 
 ![Screenshot](https://github.com/trivedigaurav/emr-vis-web/raw/master/screenshot.png)
