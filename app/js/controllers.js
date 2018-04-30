@@ -1130,7 +1130,6 @@ angular.module('myApp.controllers', [])
             }
         };
 
-
         /*
          * Sorting
          */
